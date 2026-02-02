@@ -66,4 +66,4 @@ Disclaimer
 These tools are developed for educational purposes and ethical security testing only. Usage of these tools for attacking targets without prior mutual consent is illegal. I assume no liability and am not responsible for any misuse or damage caused by this program.
 
 Contact
-Marcus Inal LinkedIn Profile
+[Marcus Inal LinkedIn Profile](https://linkedin.com/in/marcusinal)
